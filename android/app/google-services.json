@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "1005389576515",
+    "firebase_url": "https://favspot-default-rtdb.firebaseio.com",
+    "project_id": "favspot",
+    "storage_bucket": "favspot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005389576515:android:856a01f130c0c74e4fd7f6",
+        "android_client_info": {
+          "package_name": "dev.smartx.favspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005389576515-u101os7eem8fk2v7p8lp1ivja0k5bq92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGEmxBHO13IaoZsl1F9EIw5AH7OilT5Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005389576515-u101os7eem8fk2v7p8lp1ivja0k5bq92.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1005389576515-48jncupqkmvjtoa534s0r7o2sajhndgj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.smartx.favspot"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005389576515:android:90a0c5b1a31a0e0f4fd7f6",
+        "android_client_info": {
+          "package_name": "dev.smartx.favspot_prd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005389576515-u101os7eem8fk2v7p8lp1ivja0k5bq92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGEmxBHO13IaoZsl1F9EIw5AH7OilT5Bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005389576515-u101os7eem8fk2v7p8lp1ivja0k5bq92.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1005389576515-48jncupqkmvjtoa534s0r7o2sajhndgj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.smartx.favspot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
