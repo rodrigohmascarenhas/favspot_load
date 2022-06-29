@@ -1,4 +1,4 @@
-#Tue Jun 28 16:47:47 EST 2022
+#Wed Jun 29 17:33:07 EST 2022
 base.0=/Users/j.castellanos.molina/StudioProjects/favspot_load/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 base.1=/Users/j.castellanos.molina/StudioProjects/favspot_load/build/app/intermediates/dex/debug/mergeDexDebug/classes2.dex
 base.2=/Users/j.castellanos.molina/StudioProjects/favspot_load/build/app/intermediates/dex/debug/mergeDexDebug/classes3.dex
